@@ -8,7 +8,7 @@ Start the first copy of the program:
 
 1. Enter the two local player names.
 2. Choose `1 - Listen for another Connect 4 server`.
-3. Enter a TCP port such as `5555`.
+3. Enter a TCP port such as `5555`
 
 Start a second copy of the program:
 
